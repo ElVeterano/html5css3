@@ -15,3 +15,7 @@ Repositorio para aprender html5 e css3 one page responsivo
 [ICO-FINDER](https://www.icofinder.com/)
 
 [OPTIMOZILA](https://imagecompressor.com/pt/)
+### VALIDAÇÃO W3C
+[HTML](https://validator.w3.org/)
+
+[CSS](https://jigsaw.w3.org/css-validator/)
